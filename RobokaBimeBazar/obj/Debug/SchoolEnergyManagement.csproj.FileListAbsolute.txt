@@ -1,0 +1,15 @@
+C:\Users\lms-16\Source\BOT\SchoolEnergy\RobokaBimeBazar\obj\Debug\SchoolEnergyManagement.csprojAssemblyReference.cache
+C:\Users\lms-16\Source\BOT\SchoolEnergy\RobokaBimeBazar\obj\Debug\RobokaBimeBazar.Migrations.init.resources
+C:\Users\lms-16\Source\BOT\SchoolEnergy\RobokaBimeBazar\obj\Debug\RobokaBimeBazar.Migrations.changes.resources
+C:\Users\lms-16\Source\BOT\SchoolEnergy\RobokaBimeBazar\obj\Debug\RobokaBimeBazar.Migrations.fathername.resources
+C:\Users\lms-16\Source\BOT\SchoolEnergy\RobokaBimeBazar\obj\Debug\RobokaBimeBazar.Migrations.add_phone_number.resources
+C:\Users\lms-16\Source\BOT\SchoolEnergy\RobokaBimeBazar\obj\Debug\RobokaBimeBazar.Migrations.order.resources
+C:\Users\lms-16\Source\BOT\SchoolEnergy\RobokaBimeBazar\obj\Debug\RobokaBimeBazar.Migrations.update_user_info.resources
+C:\Users\lms-16\Source\BOT\SchoolEnergy\RobokaBimeBazar\obj\Debug\RobokaBimeBazar.Migrations.branches.resources
+C:\Users\lms-16\Source\BOT\SchoolEnergy\RobokaBimeBazar\obj\Debug\RobokaBimeBazar.Migrations.branches_changes.resources
+C:\Users\lms-16\Source\BOT\SchoolEnergy\RobokaBimeBazar\obj\Debug\RobokaBimeBazar.Migrations.order_uid.resources
+C:\Users\lms-16\Source\BOT\SchoolEnergy\RobokaBimeBazar\obj\Debug\RobokaBimeBazar.Migrations.terminateStatus.resources
+C:\Users\lms-16\Source\BOT\SchoolEnergy\RobokaBimeBazar\obj\Debug\SchoolEnergyManagement.csproj.GenerateResource.cache
+C:\Users\lms-16\Source\BOT\SchoolEnergy\RobokaBimeBazar\obj\Debug\SchoolEnergyManagement.csproj.CoreCompileInputs.cache
+C:\Users\lms-16\Source\BOT\SchoolEnergy\RobokaBimeBazar\obj\Debug\RobokaBimeBazar.dll
+C:\Users\lms-16\Source\BOT\SchoolEnergy\RobokaBimeBazar\obj\Debug\RobokaBimeBazar.pdb

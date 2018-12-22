@@ -1,0 +1,4 @@
+﻿namespace RobokaBimeBazar.Domain.Model
+{
+    
+}
